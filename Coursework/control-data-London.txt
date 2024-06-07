@@ -1,0 +1,251 @@
+                                      @SiteName @SiteCode          @DateOpened          @DateClosed
+0    - National Physical Laboratory, Teddington       TD0  1996-08-08 00:00:00  2018-01-01 00:00:00
+1           Barking and Dagenham - North Street       BG3  2007-03-16 00:00:00  2011-05-25 00:00:00
+2             Barking and Dagenham - Rush Green       BG1  1999-11-02 00:00:00                     
+3         Barking and Dagenham - Scrattons Farm       BG2  1999-10-17 00:00:00                     
+4                             Barnet - Finchley       BN2  2000-08-09 13:00:00  2012-04-20 00:00:00
+5                     Barnet - Strawberry Vale        BN3  2000-08-14 14:00:00  2002-05-15 00:00:00
+6                      Barnet - Tally Ho Corner       BN1  1998-12-20 12:00:00  2012-04-20 00:00:00
+7                           Bexley - Bedonwell        BX5  1999-10-06 13:00:00  2004-04-08 00:00:00
+8                            Bexley - Belvedere       BX2  1998-01-24 15:00:00                     
+9                       Bexley - Belvedere FDMS       BX0  2004-04-28 00:00:00  2022-01-28 00:00:00
+10                      Bexley - Belvedere West       BQ7  2010-08-24 00:00:00                     
+11                 Bexley - Belvedere West FDMS       BQ8  2010-08-24 00:00:00  2022-02-23 00:00:00
+12                               Bexley - Erith       BX4  1999-04-28 00:00:00  2014-12-19 00:00:00
+13         Bexley - Manor Road East Gravimetric       BQ6  2010-02-12 00:00:00  2014-10-28 00:00:00
+14         Bexley - Manor Road West Gravimetric       BQ5  1999-04-28 09:00:00  2014-10-28 00:00:00
+15                         Bexley - Slade Green       BX1  1994-05-25 00:00:00                     
+16                    Bexley - Slade Green FDMS       BX9  2008-10-21 00:00:00  2020-10-01 00:00:00
+17                   Bexley - Slade Green Fidas       BQ9  2020-10-01 00:00:00                     
+18                   Bexley - Thames Road North       BX7  2004-04-08 00:00:00  2010-03-23 00:00:00
+19              Bexley - Thames Road North FDMS       BX6  2004-04-08 00:00:00  2010-03-23 00:00:00
+20                   Bexley - Thames Road South       BX8  2004-04-06 00:00:00  2010-04-15 00:00:00
+21                          Bexley - Thamesmead       BX3  1998-01-24 15:00:00  2018-03-12 00:00:00
+22                   Bexley 8 - Traffic(E fast)       BQ3  2007-08-14 00:00:00  2010-04-13 00:00:00
+23     Bexley 8 - Traffic(E slow - nearest BX7)       BQ4  2007-08-14 00:00:00  2010-04-13 00:00:00
+24                   Bexley 8 - Traffic(W fast)       BQ2  2007-08-14 00:00:00  2010-04-13 00:00:00
+25     Bexley 8 - Traffic(W slow - nearest BX8)       BQ1  2007-08-14 00:00:00  2010-04-13 00:00:00
+26         Brent - ARK Franklin Primary Academy       BT8  2017-10-30 00:00:00                     
+27                            Brent - Harlesden       BT3  2001-10-31 00:00:00  2006-09-27 00:00:00
+28                                 Brent - Ikea       BT4  2003-06-20 06:00:00                     
+29                        Brent - Ikea Car Park       BT2  2001-06-17 12:00:00  2003-06-16 00:00:00
+30            Brent - John Keble Primary School       BT6  2006-11-01 00:00:00                     
+31                            Brent - Kingsbury       BT1  1996-01-26 00:00:00  2010-11-16 00:00:00
+32                         Brent - Neasden Lane       BT5  2004-02-29 23:00:00                     
+33              Brent - St Marys Primary School       BT7  2008-01-04 00:00:00  2010-12-21 00:00:00
+34                        Bromley - Biggin Hill       BY5  1996-04-01 00:00:00  2010-07-09 08:45:00
+35                     Bromley - Harwood Avenue       BY7  1998-07-06 11:00:00                     
+36                        Bromley - Rent Office       BY1  1993-01-01 00:00:00  1996-01-11 21:00:00
+37                          Bromley - Tweedy Rd       BY4  1996-01-28 11:00:00  1998-07-06 10:45:00
+38                          Camden - Bloomsbury       BL0  1992-01-23 00:00:00                     
+39                        Camden - Coopers Lane       KX4  2009-07-01 00:00:00  2020-07-01 00:00:00
+40                         Camden - Euston Road       CD9  2011-01-29 00:00:00  2020-07-02 00:00:00
+41               Camden - Holborn (Bee Midtown)       IM1  2014-02-06 00:00:00                     
+42                  Camden - Shaftesbury Avenue       CD3  2000-04-20 06:00:00  2016-11-04 00:00:00
+43          Camden - St Martins College (NOX 1)       CD4  2007-06-22 00:00:00  2010-07-13 00:00:00
+44          Camden - St Martins College (NOX 2)       CD5  2007-06-22 00:00:00  2011-01-15 00:00:00
+45                       Camden - Swiss Cottage       CD1  1996-04-16 13:30:00                     
+46                City of London - Beech Street       CT4  2003-01-01 00:00:00                     
+47           City of London - Farringdon Street       CT2  2003-01-01 00:00:00                     
+48                   City of London - Guildhall       CT9  2022-01-24 00:00:00                     
+49               City of London - Senator House       CT1  2001-10-10 14:45:00  2013-01-16 00:00:00
+50          City of London - The Aldgate School       CT3  2003-01-01 00:00:00                     
+51         City of London - Upper Thames Street       CT8  2007-04-22 00:00:00  2021-09-13 00:00:00
+52         City of London - Upper Thames Street       CTA  2022-05-12 00:00:00                     
+53              City of London - Walbrook Wharf       CT6  2007-04-01 00:00:00                     
+54                        Croydon - Euston Road       CR6  2001-01-26 08:00:00  2009-05-22 00:00:00
+55                      Croydon - George Street       CR4  1999-09-20 07:45:00  2015-04-02 00:00:00
+56                            Croydon - Norbury       CR5  2000-10-05 11:15:00                     
+57                      Croydon - Norbury Manor       CR8  2014-12-01 00:00:00                     
+58                          Croydon - Park Lane       CR9  2015-11-02 00:00:00                     
+59                         Croydon - Purley Way       CR2  1994-08-08 13:00:00  2010-10-08 00:00:00
+60                     Croydon - Purley Way A23       CR7  2012-01-19 00:00:00                     
+61                     Croydon - Thornton Heath       CR3  1997-06-13 02:30:00  2013-02-08 00:00:00
+62       Crystal Palace - Crystal Palace Parade       CY1  1999-09-29 23:00:00  2010-07-29 00:00:00
+63                     Ealing - Acton Town Hall       EA2  1996-09-09 15:00:00  2012-01-17 00:00:00
+64          Ealing - Acton Town Hall (Partisol)       EG1  2005-09-01 00:00:00  2006-10-04 00:00:00
+65                Ealing - Acton Town Hall FDMS       EA0  2005-04-29 09:00:00  2011-12-29 00:00:00
+66                         Ealing - Acton Vale        EI3  2017-11-23 00:00:00                     
+67                           Ealing - Court Way       EA9  2005-04-19 01:00:00  2006-06-01 00:00:00
+68                    Ealing - Ealing Town Hall       EA1  1995-03-14 00:00:00  2012-01-10 00:00:00
+69                           Ealing - Greenford       EI0  2008-03-25 00:00:00  2009-04-15 00:00:00
+70                Ealing - Hanger Lane Gyratory       EA6  2003-08-04 00:00:00                     
+71                           Ealing - Horn Lane       EA8  2005-02-25 00:00:00                     
+72                      Ealing - Horn Lane TEOM       EI8  2005-02-25 00:00:00                     
+73                            Ealing - Southall       EA7  2004-07-13 11:00:00  2016-01-26 00:00:00
+74                       Ealing - Southall FDMS       EI7  2011-12-28 11:00:00  2016-01-26 00:00:00
+75                    Ealing - Southall Railway       EI2  2011-04-08 00:00:00  2014-01-06 00:00:00
+76                      Ealing - Western Avenue       EI1  2010-03-19 00:00:00                     
+77               Enfield - Bowes Primary School       EN5  2004-07-01 00:00:00                     
+78                     Enfield - Bush Hill Park       EN1  1995-06-29 08:00:00                     
+79                      Enfield - Church Street       EN2  1997-12-21 16:00:00  2006-09-14 00:00:00
+80                         Enfield - Derby Road       EN4  2000-02-29 09:15:00                     
+81             Enfield - Prince of Wales School       EN7  2012-07-09 00:00:00                     
+82                   Enfield - Salisbury School       EN3  1998-11-03 10:00:00  2008-07-28 00:00:00
+83               Greenwich - A206 Burrage Grove       GN0  2004-10-07 00:00:00                     
+84                       Greenwich - Blackheath       GR7  2002-03-08 11:00:00                     
+85                           Greenwich - Eltham       GR4  1995-01-01 00:00:00                     
+86                       Greenwich - Falconwood       GB6  2000-10-18 09:15:00                     
+87                  Greenwich - Falconwood FDMS       GB0  2009-03-16 00:00:00                     
+88           Greenwich - Fiveways Sidcup Rd A20       GN4  2011-01-24 00:00:00                     
+89                Greenwich - John Harrison Way       GN6  2018-07-02 00:00:00                     
+90               Greenwich - Millennium Village       GN2  2004-08-01 00:00:00  2016-10-20 00:00:00
+91            Greenwich - Plumstead High Street       GN3  2006-01-27 00:00:00                     
+92                   Greenwich - Trafalgar Road       GR5  1996-11-27 00:00:00  2015-12-02 00:00:00
+93      Greenwich - Trafalgar Road (Hoskins St)       GN5  2017-10-12 00:00:00                     
+94                    Greenwich - Tunnel Avenue       TL4  2020-12-04 00:00:00                     
+95                 Greenwich - Westhorne Avenue       GR9  2004-10-01 00:00:00                     
+96                 Greenwich - Woolwich Flyover       GR8  2004-07-08 00:00:00                     
+97                       Hackney - Amhurst Road       HN0  2022-04-01 00:00:00  2022-07-18 00:00:00
+98                            Hackney - Clapton       HK4  1993-10-08 16:15:00  2011-08-31 00:00:00
+99                   Hackney - Homerton Library       HN1  2022-04-01 00:00:00  2022-07-18 00:00:00
+100                        Hackney - Old Street       HK6  2000-05-31 23:00:00                     
+101                 Hackney - Queensbridge Road       HK9  2022-02-01 00:00:00  2022-07-18 00:00:00
+102           Hammersmith and Fulham - Broadway       HF1  1999-08-23 18:15:00  2009-01-20 00:00:00
+103        Hammersmith and Fulham - Brook Green       HF2  2003-07-28 12:00:00  2009-01-21 00:00:00
+104        Hammersmith and Fulham - Scrubs Lane       HF3  2005-03-30 12:00:00  2005-10-27 14:00:00
+105     Hammersmith and Fulham - Shepherds Bush       HF4  2011-10-31 00:00:00  2017-10-27 00:00:00
+106               Haringey  - Priory Park South       HG4  2012-10-25 00:00:00                     
+107                     Haringey - Bounds Green       HG3  1999-06-21 00:15:00  2001-03-11 23:45:00
+108               Haringey - Haringey Town Hall       HG1  1994-11-29 12:00:00                     
+109                      Haringey - Priory Park       HG2  1996-03-29 00:00:00  2012-10-25 00:00:00
+110                        Harrow - Pinner Road       HR2  2003-06-16 00:00:00                     
+111                           Harrow - Stanmore       HR1  1999-04-10 10:00:00                     
+112                      Havering - Harold Hill       HV2  1998-03-31 23:00:00  2000-11-12 14:45:00
+113                          Havering - Rainham       HV1  1995-12-08 00:00:00                     
+114                          Havering - Romford       HV3  1998-12-22 10:00:00                     
+115                            Heathrow Airport       LH2  1999-01-01 00:00:00  2011-02-24 00:00:00
+116                     Hillingdon - Harlington       LH0  2004-01-01 00:00:00                     
+117            Hillingdon - Hillingdon Hospital       HI2  2002-09-25 11:30:00  2011-06-01 00:00:00
+118                      Hillingdon - Keats Way       HI0  1996-08-02 00:00:00                     
+119                  Hillingdon - Oxford Avenue       HI3  2005-03-01 12:00:00  2011-06-01 00:00:00
+120                  Hillingdon - South Ruislip       HI1  1994-01-01 00:00:00  2011-06-01 00:00:00
+121                        Hounslow - Brentford       HS1  1993-04-01 00:00:00  2003-01-01 00:00:00
+122                        Hounslow - Brentford       HS3  1999-03-20 12:00:00  2003-01-01 00:00:00
+123                        Hounslow - Brentford       HS5  2003-06-02 13:00:00  2012-04-01 00:00:00
+124               Hounslow - Chiswick High Road       HS4  1999-08-26 11:45:00  2012-04-01 00:00:00
+125                         Hounslow - Cranford       HS2  1999-01-02 18:00:00  2012-04-01 00:00:00
+126                          Hounslow - Feltham       HS9  2009-08-19 00:00:00  2012-04-01 00:00:00
+127                     Hounslow - Hatton Cross       HS7  2006-01-05 00:00:00  2012-04-01 00:00:00
+128                      Hounslow - Heston Road       HS6  2006-04-13 00:00:00  2012-04-01 00:00:00
+129    Hounslow and Ealing - Gunnersbury Avenue       HS8  2012-02-09 00:00:00  2015-02-09 00:00:00
+130                         Islington - Arsenal       IS6  2007-03-14 00:00:00                     
+131                  Islington - Duncan Terrace       IS5  2006-08-04 00:00:00  2009-03-11 00:00:00
+132                  Islington - Foxham Gardens       IS4  2006-04-20 00:00:00  2009-03-11 00:00:00
+133                   Islington - Holloway Road       IS2  2000-07-12 06:45:00                     
+134                    Islington - Upper Street       IS1  1994-05-13 01:00:00  2007-03-14 00:00:00
+135      Kensington and Chelsea - Cromwell Road       KC2  1998-05-10 20:00:00  2017-10-27 00:00:00
+136     Kensington and Chelsea - Earls Court Rd       KC5  2002-05-01 00:00:00  2017-10-27 00:00:00
+137    Kensington and Chelsea - Green Screen BG       KG2  2013-10-30 00:00:00  2014-10-31 00:00:00
+138    Kensington and Chelsea - Green Screen RS       KG1  2013-10-30 00:00:00  2014-10-31 00:00:00
+139         Kensington and Chelsea - Kings Road       KC4  2000-09-27 14:15:00  2017-10-26 00:00:00
+140      Kensington and Chelsea - Knightsbridge       KC3  2000-03-28 11:30:00  2017-10-26 00:00:00
+141          Kensington and Chelsea - North Ken       KC1  1995-03-17 00:00:00                     
+142     Kensington and Chelsea - North Ken FDMS       KC7  2003-11-21 00:00:00  2018-03-01 00:00:00
+143    Kensington and Chelsea - North Ken FIDAS       KF1  2017-02-20 00:00:00                     
+144      Kensington and Chelsea - Pembroke Road       WE0  1987-01-01 00:00:00  2007-09-30 00:00:00
+145                      Kingston - Chessington       KT1  1996-01-24 14:00:00  2008-07-07 12:00:00
+146               Kingston - Kingston Bypass A3       A30  1997-03-20 00:00:00  2007-09-30 00:00:00
+147                      Kingston - Town Centre       KT2  1996-04-26 06:00:00  2000-06-23 08:45:00
+148        Kingston Upon Thames - Cromwell Road       KT5  2018-03-12 00:00:00                     
+149        Kingston Upon Thames - Kingston Vale       KT6  2018-03-12 00:00:00                     
+150          Kingston Upon Thames - Sopwith Way       KT3  2015-03-10 00:00:00  2016-07-13 00:00:00
+151    Kingston Upon Thames - Tolworth Broadway       KT4  2015-04-13 00:00:00                     
+152               Lambeth - Bondway Interchange       LB5  2005-02-01 00:00:00                     
+153                      Lambeth - Brixton Road       LB4  2003-12-18 00:00:00                     
+154                 Lambeth - Christchurch Road       LB1  2000-09-24 09:00:00  2010-12-02 00:00:00
+155                Lambeth - Loughborough Junct       LB3  2001-12-19 11:00:00  2010-12-20 00:00:00
+156                   Lambeth - Streatham Green       LB6  2009-08-17 00:00:00                     
+157                    Lambeth - Vauxhall Cross       LB2  2001-12-19 15:00:00  2003-07-01 00:00:00
+158                          Lewisham - Catford       LW1  1996-08-02 15:00:00  2021-11-03 00:00:00
+159                         Lewisham - Deptford       LW5  2019-09-20 00:00:00                     
+160                   Lewisham - Honor Oak Park       HP1  2018-11-27 00:00:00                     
+161           Lewisham - Laurence House Catford       LW6  2021-11-09 00:00:00                     
+162                     Lewisham - Loampit Vale       LW4  2012-07-10 00:00:00                     
+163                      Lewisham - Mercury Way       LW3  2010-01-01 00:00:00  2016-02-03 00:00:00
+164                        Lewisham - New Cross       LW2  2002-03-31 13:45:00                     
+165               London Teddington Bushy Park        TD5  2004-11-15 00:00:00                     
+166                       Marylebone Road - BAM       MR8  2012-01-11 00:00:00                     
+167                          Merton - Esampler1       ME5  2014-12-02 00:00:00                     
+168                          Merton - Esampler2       ME6  2014-12-02 00:00:00                     
+169                        Merton - Merton Road       ME2  2011-06-29 00:00:00                     
+170                Merton - Morden Civic Centre       ME1  2010-01-13 00:00:00  2017-01-27 00:00:00
+171              Merton - Morden Civic Centre 2       ME9  2017-01-27 00:00:00                     
+172      Merton - Willow Lane Industrial Estate       ME7  2015-08-05 00:00:00  2016-04-01 00:00:00
+173                     Newham - Britannia Gate       TL6  2020-12-04 00:00:00                     
+174                           Newham - Cam Road       NM2  1998-08-18 00:00:00                     
+175                        Newham - Hoola Tower       TL5  2021-03-08 00:00:00                     
+176                        Newham - Tant Avenue       NM1  1998-01-01 00:00:00  2003-12-31 00:00:00
+177                         Newham - Wren Close       NM3  2003-03-21 00:00:00                     
+178                  Redbridge - Fullwell Cross       RB3  1999-11-20 14:00:00  2012-03-30 10:45:00
+179                   Redbridge - Gardner Close       RB4  1999-11-21 13:00:00                     
+180                 Redbridge - Ilford Broadway       RB2  1999-12-01 14:00:00  2003-06-01 00:00:00
+181                      Redbridge - Ley Street       RB7  2014-05-15 00:00:00                     
+182                   Redbridge - Perth Terrace       RB1  1999-11-21 10:00:00  2014-05-13 00:00:00
+183                  Redbridge - South Woodford       RB5  2003-11-19 00:00:00  2012-03-30 10:45:00
+184     Regent Street facade (The Crown Estate)       CE1  2020-05-01 00:00:00                     
+185      Richmond Upon Thames - Barnes Wetlands       RI2  2001-03-29 10:00:00                     
+186            Richmond Upon Thames - Castelnau       RI1  2000-06-14 00:15:00                     
+187        Richmond Upon Thames - Chertsey Road       RHG  2016-05-24 00:00:00  2020-08-06 00:00:00
+188                                   Sk B Site      AZ99  2018-08-28 00:00:00                     
+189                Southwark - A2 Old Kent Road       SK5  2010-11-24 00:00:00                     
+190          Southwark - A2 Old Kent Road FIDAS       SK9  2010-11-24 00:00:00                     
+191             Southwark - Elephant and Castle       SK6  2013-01-23 00:00:00                     
+192                         Southwark - Heygate       SK7  2014-08-26 00:00:00  2015-11-11 00:00:00
+193                   Southwark - Larcom Street       SK1  1993-03-01 00:00:00  2009-06-17 12:00:00
+194                      Southwark - Lower Road       SKA  2020-11-24 00:00:00                     
+195                   Southwark - Old Kent Road       SK2  1994-05-03 00:00:00  2006-04-21 00:00:00
+196             Southwark - South Circular Road       SKC  2021-07-22 00:00:00                     
+197               Southwark - Tower Bridge Road       SK8  2019-06-01 00:00:00                     
+198                  Southwark - Vicarage Grove       SKB  2021-01-26 00:00:00                     
+199                   Sutton - Beddington Lane        ST8  2012-04-04 00:00:00  2020-10-16 00:00:00
+200              Sutton - Beddington Lane north       ST5  2005-12-01 00:00:00                     
+201                 Sutton - Beddington Village       ST9  2020-10-16 00:00:00                     
+202                         Sutton - Carshalton       ST3  1995-05-05 07:00:00  2016-07-13 00:00:00
+203                        Sutton - North Cheam       ST2  1995-04-25 17:00:00  2002-05-03 00:00:00
+204                  Sutton - Robin Hood School       ST1  1995-04-26 07:00:00  2002-04-26 00:00:00
+205                      Sutton - Therapia Lane       ST7  2010-02-09 00:00:00  2012-02-10 00:00:00
+206                         Sutton - Wallington       ST4  2002-07-17 00:00:00                     
+207                     Sutton - Worcester Park       ST6  2008-11-04 00:00:00                     
+208               Tower Hamlets - Bethnal Green       TH3  1999-10-24 12:00:00  2009-11-02 00:00:00
+209                   Tower Hamlets - Blackwall       TH4  2006-09-08 00:00:00                     
+210                Tower Hamlets - Jubilee Park       CW3  2022-01-17 00:00:00                     
+211               Tower Hamlets - Mile End Road       TH2  1994-03-10 00:00:00                     
+212               Tower Hamlets - Millwall Park       TH6  2015-07-06 00:00:00  2016-11-26 00:00:00
+213                      Tower Hamlets - Poplar       TH1  1994-01-04 17:00:00  2013-07-02 00:00:00
+214               Tower Hamlets - Victoria Park       TH5  2012-07-25 00:00:00  2016-11-26 00:00:00
+215                  Waltham Forest - Chingford       WL3  2003-07-14 12:00:00  2007-04-18 00:00:00
+216             Waltham Forest - Crooked Billet       WL4  2007-11-01 00:00:00  2011-04-01 00:00:00
+217               Waltham Forest - Dawlish Road       WL1  1998-07-05 08:00:00  2011-04-01 00:00:00
+218                     Waltham Forest - Leyton       WL5  2007-09-20 00:00:00  2011-04-01 00:00:00
+219                     Waltham Forest - Mobile       WL2  1998-07-09 12:15:00  2001-10-12 11:00:00
+220                      Wandsworth - Battersea       WAA  2012-06-19 00:00:00                     
+221                   Wandsworth - Garratt Lane       WA1  1995-04-01 00:00:00  1996-02-26 00:00:00
+222                    Wandsworth - High Street       WA4  1998-01-31 23:00:00  2007-08-30 08:45:00
+223    Wandsworth - Lavender Hill (Clapham Jct)       WAC  2016-04-14 00:00:00                     
+224                         Wandsworth - Putney       WA9  2011-01-04 00:00:00                     
+225             Wandsworth - Putney High Street       WA7  2009-07-09 00:00:00                     
+226      Wandsworth - Putney High Street Facade       WA8  2010-04-23 00:00:00                     
+227                     Wandsworth - Roehampton       WA3  1994-10-31 00:00:00  2000-11-24 13:45:00
+228                        Wandsworth - Tooting       WA6  2008-07-01 00:00:00  2009-08-28 13:30:00
+229            Wandsworth - Tooting High Street       WAB  2015-06-11 00:00:00                     
+230           Wandsworth - Wandsworth Town Hall       WA2  1994-10-11 14:00:00                     
+231           Waterloo Place (The Crown Estate)       CE2  2020-12-21 00:00:00                     
+232                  Westminster - Bridge Place       BP0  1990-07-03 00:00:00  1999-11-21 13:45:00
+233        Westminster - Buckingham Palace Road       WMA  2018-02-18 00:00:00  2020-04-27 10:00:00
+234              Westminster - Cavendish Square       WMC  2018-05-31 12:00:00                     
+235         Westminster - Charing Cross Library       WM4  2007-02-01 00:00:00  2011-01-11 00:00:00
+236                 Westminster - Covent Garden       WM5  2009-07-10 00:00:00                     
+237       Westminster - Duke Street (Grosvenor)       GV2  2019-08-22 16:00:00                     
+238      Westminster - Ebury Street (Grosvenor)       GV1  2018-12-11 09:00:00                     
+239              Westminster - Elizabeth Bridge       WMD  2020-04-27 00:00:00                     
+240               Westminster - Horseferry Road       WM0  2001-07-17 00:00:00                     
+241               Westminster - Marylebone Road       MY1  1997-05-26 12:00:00                     
+242          Westminster - Marylebone Road FDMS       MY7  2004-01-22 12:00:00  2021-12-21 08:00:00
+243                 Westminster - Oxford Street       WM6  2011-01-01 00:00:00                     
+244               Westminster - Oxford Street 2       WMZ  2016-05-13 00:00:00  2016-09-08 00:00:00
+245            Westminster - Oxford Street East       WMB  2018-06-05 00:00:00                     
+246        Westminster - Strand (Northbank BID)       NB1  2015-04-28 00:00:00                     
+247                      Westminster - Victoria       WM8  2014-01-06 00:00:00  2016-04-04 00:00:00
+248       Westminster - Victoria (Victoria BID)       WM9  2016-08-08 00:00:00  2017-09-20 00:00:00
+249               Westminster - Victoria Street       VS1  2003-05-02 15:00:00  2008-04-01 00:00:00
